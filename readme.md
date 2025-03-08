@@ -91,6 +91,6 @@ streamlit run app.py
 This project is licensed under the MIT License.
 
 ## System design
-![alt text](system design.png)
+![alt text](https://github.com/GarbhitSh/Rigger-/blob/main/system%20design.png)
 
 
