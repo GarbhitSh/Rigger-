@@ -29,7 +29,7 @@ This project converts natural language queries into SQL queries using AI-driven 
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/GarbhitSh/Rigger-
    cd <project-directory>
    ```
 2. Install required dependencies:
@@ -90,7 +90,7 @@ streamlit run app.py
 
 This project is licensed under the MIT License.
 
-## Author
-
+## System design
+![alt text](system design.png)
 
 
